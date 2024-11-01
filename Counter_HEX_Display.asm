@@ -1,12 +1,6 @@
 ; Counter_HEX_Display.asm
 ;
-; Author:               Bhavay Garg, Himanshu Shrestha, Mohammed Yagoub
-; Modified by:          Bhavay Garg, Himanshu Shrestha, Mohammed Yagoub
-; Student Number(s):    Bhavay Garg-041102440,Himanshu Shrestha-041105548,
-;                         Mohammed Yagoub- 041043160
-; Lab Section(s):       Section 302
-; Course:               CST8216 Winter 2024
-; Date:                  28 March 2024
+; Author:               Bhavay Garg
 ;
 ; Description:   This counter is a "down counter", which continually counts
 ;                in BCD from START_COUNT to END_COUNT as defined in the
